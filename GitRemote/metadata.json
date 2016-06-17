@@ -1,0 +1,7 @@
+{
+  "uuid": "git-remote@ajwhitewolf",
+  "name": "Git Remote",
+  "description": "A way to monitor and easily update Git repositories from a panel",
+  "icon": "force-exit",
+  "max-instances": "-1"
+}
